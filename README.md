@@ -81,3 +81,7 @@ The test environment is implicit. Running tests automatically creates it under `
 ## Installation
 
 Copy `SKILL.md` to `~/.claude/skills/bdd/` and add to your Claude Code skill table. The skill activates automatically — no explicit invocation needed.
+
+## License
+
+This project is licensed under [CC BY-NC 4.0](https://darren-static.waft.dev) - free to use and modify, but no commercial use without permission.
